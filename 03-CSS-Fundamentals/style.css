@@ -1,12 +1,19 @@
-h1,
+/* * {
+  border-top: 10px solid #1098ad 
+} */
+
+body {
+  font-family: sans-serif;
+  color: #444;
+}
+
+/* h1,
 h2,
 h3,
 h4,
 p,
-li {
-  font-family: sans-serif;
-  color: #444;
-}
+li { 
+} */
 
 h1,
 h2,
@@ -142,3 +149,8 @@ footer p {
    color: green !important; 
   }
    */
+
+nav a:link
+/* nav p */ {
+  font-size: 18px;
+}
